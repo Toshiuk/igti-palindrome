@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/igti-palindrome/static/css/main.37a1a32a.chunk.css",
-    "main.js": "/igti-palindrome/static/js/main.422f2006.chunk.js",
-    "main.js.map": "/igti-palindrome/static/js/main.422f2006.chunk.js.map",
+    "main.js": "/igti-palindrome/static/js/main.d161a800.chunk.js",
+    "main.js.map": "/igti-palindrome/static/js/main.d161a800.chunk.js.map",
     "runtime-main.js": "/igti-palindrome/static/js/runtime-main.c40b403d.js",
     "runtime-main.js.map": "/igti-palindrome/static/js/runtime-main.c40b403d.js.map",
     "static/js/2.96a098e1.chunk.js": "/igti-palindrome/static/js/2.96a098e1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c40b403d.js",
     "static/js/2.96a098e1.chunk.js",
     "static/css/main.37a1a32a.chunk.css",
-    "static/js/main.422f2006.chunk.js"
+    "static/js/main.d161a800.chunk.js"
   ]
 }
