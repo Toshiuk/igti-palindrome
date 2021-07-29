@@ -6,7 +6,7 @@ const App = () => {
   const [word, setWord] = useState("");
 
   const isPalindrome =
-    word === word.toLowerCase().replace(" ").split("").reverse().join("");
+    word.toLowerCase().replace(" ") === word.toLowerCase().replace(" ").split("").reverse().join("");
 
   const { x } = useSpring({
     from: { x: 0 },
