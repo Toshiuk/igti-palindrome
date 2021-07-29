@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/igti-palindrome/static/css/main.37a1a32a.chunk.css",
-    "main.js": "/igti-palindrome/static/js/main.5a584e98.chunk.js",
-    "main.js.map": "/igti-palindrome/static/js/main.5a584e98.chunk.js.map",
+    "main.js": "/igti-palindrome/static/js/main.43f2ff2a.chunk.js",
+    "main.js.map": "/igti-palindrome/static/js/main.43f2ff2a.chunk.js.map",
     "runtime-main.js": "/igti-palindrome/static/js/runtime-main.c40b403d.js",
     "runtime-main.js.map": "/igti-palindrome/static/js/runtime-main.c40b403d.js.map",
-    "static/js/2.e81ab562.chunk.js": "/igti-palindrome/static/js/2.e81ab562.chunk.js",
-    "static/js/2.e81ab562.chunk.js.map": "/igti-palindrome/static/js/2.e81ab562.chunk.js.map",
+    "static/js/2.96a098e1.chunk.js": "/igti-palindrome/static/js/2.96a098e1.chunk.js",
+    "static/js/2.96a098e1.chunk.js.map": "/igti-palindrome/static/js/2.96a098e1.chunk.js.map",
     "index.html": "/igti-palindrome/index.html",
     "static/css/main.37a1a32a.chunk.css.map": "/igti-palindrome/static/css/main.37a1a32a.chunk.css.map",
-    "static/js/2.e81ab562.chunk.js.LICENSE.txt": "/igti-palindrome/static/js/2.e81ab562.chunk.js.LICENSE.txt"
+    "static/js/2.96a098e1.chunk.js.LICENSE.txt": "/igti-palindrome/static/js/2.96a098e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c40b403d.js",
-    "static/js/2.e81ab562.chunk.js",
+    "static/js/2.96a098e1.chunk.js",
     "static/css/main.37a1a32a.chunk.css",
-    "static/js/main.5a584e98.chunk.js"
+    "static/js/main.43f2ff2a.chunk.js"
   ]
 }
